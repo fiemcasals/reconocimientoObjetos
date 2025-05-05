@@ -19,7 +19,7 @@ classes = {0:"background", 1:"aeroplane", 2:"bicycle",
            15:"person", 16:"pottedplant", 17:"sheep", 18:"sofa",
            19:"train", 20:"tvmonitor"}
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(0) # Cambia el 0 por la URL de tu cámara IP si es necesario(en este caso por 1)
 
 def generate_frames():
     while True:
