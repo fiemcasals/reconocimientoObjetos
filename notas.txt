@@ -1,0 +1,2 @@
+(detectionObjectVAE) mauri@mauri-Notebook:~/uni/FIE/proyectoPromocionYSintesis/reconocimientoImagenes$ python --version
+Python 3.12.3
