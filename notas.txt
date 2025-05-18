@@ -1,2 +1,7 @@
 (detectionObjectVAE) mauri@mauri-Notebook:~/uni/FIE/proyectoPromocionYSintesis/reconocimientoImagenes$ python --version
 Python 3.12.3
+
+
+Observaciones:
+1. Tiene que ser usado desde el localhost (es decir, debe estar en la misma red que el auto)
+2. Hay que cambiar el puerto desde donde toma la cámara, de 0 a 1. 

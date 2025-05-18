@@ -59,4 +59,4 @@ def index():
     return "Ir a /video para ver el stream"
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='10.42.0.1', port=5000) #el puerto lo debo cambiar si tenog una red propia. mirando la ip
